@@ -1,5 +1,6 @@
 # FUNDAMENTALS: stack example
 # PROBLEM: balancing brackets
+# Optimized 
 
 lass Stack(object):
     def __init__(self):
